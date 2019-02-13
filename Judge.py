@@ -11,5 +11,5 @@ print(pow(2,3,2))
 
 print(numpy.square(4))     #numpy的平方函数，square   
 
-print(math.sqrt(25))
+print(math.sqrt(25))       #math库中的求平方根函数，即开平方
 
